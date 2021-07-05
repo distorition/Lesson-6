@@ -36,37 +36,6 @@ namespace Lesson_6._1
 
 
 
-
-
-
-
-            //int num;
-            //Console.WriteLine("Ввидите имя процесса или его номер который хотите закрыть ");
-
-            //string str = Console.ReadLine();
-            //bool aaa = int.TryParse(str, out num);
-            //if (aaa == true)
-            //{
-              
-            //}
-            //else if (aaa == false)
-            //{
-                
-
-
-            //}
-            //else
-            //{
-            //    Console.WriteLine("такого процесса нету");
-            //}
-
-
-
-
-
-
-
-
         }
 
         private static void Process()
